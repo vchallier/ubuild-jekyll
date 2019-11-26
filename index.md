@@ -14,18 +14,6 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    content: <img src="/uploads/2019/11/26/arthus.png" title="Arthus de Saint Chaffray"
-      alt="Arthus de Saint Chaffray"><br>Arthus de Saint Chaffray
-    headline: ''
-  col_2:
-    headline: ''
-    content: ''
-  col_3:
-    headline: ''
-    content: ''
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
